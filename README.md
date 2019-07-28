@@ -1,2 +1,2 @@
 # CrudTeste
-criando crus PHP Laravel
+criando crud PHP Laravel
